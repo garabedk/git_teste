@@ -14,3 +14,9 @@ git status --short
 git commit -a -m "sem stage"
 
 help git config
+
+git branch
+
+git checkout novobranch
+
+git log
