@@ -11,6 +11,8 @@ git commit -m "terceita versao"
 git status -s
 git status --short
 
+git log
+
 git commit -a -m "sem stage"
 
 help git config
@@ -20,3 +22,4 @@ git branch
 git checkout novobranch
 
 git log
+
