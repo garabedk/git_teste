@@ -5,12 +5,10 @@ git init
 git --version
 
 git add --all
-
 git commit -m "terceita versao"
 
 git status -s
 git status --short
-
 git log
 
 git commit -a -m "sem stage"
